@@ -1,0 +1,20 @@
+.verlust {
+    color: white;
+    background-color: maroon;
+    border-color: black;
+}
+.gewinn {
+    color: white;
+    background-color: green;
+    border-color: black;
+}
+table, th, td {
+    border: 1px solid;
+    border-color: black;
+}
+table {
+    border-collapse: collapse;
+}
+body {
+    margin: 1% !important;
+}
